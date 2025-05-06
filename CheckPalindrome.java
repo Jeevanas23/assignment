@@ -2,7 +2,7 @@ package week1.day2;
 
 public class CheckPalindrome {
 	public static void main(String[] args) {
-		int number=34343;
+		int number=545;
 		int num1=number;
 		int temp=0;
 		
