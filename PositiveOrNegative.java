@@ -2,7 +2,7 @@ package week1.day2;
 
 public class PositiveOrNegative {
 	public static void main(String[] args) {
-		int number=35;
+		int number=67;
 		if(number>0) {
 			System.out.println("The number "+number+" is positive");
 		}
