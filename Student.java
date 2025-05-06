@@ -2,10 +2,10 @@ package week1.day1;
 
 public class Student {
 	
-	String studentName="Hindumathi";
-	int rollNo=5029;
-	String collegeName="SRM Valliammai Engineering College";
-	int markScored=587;
-	float cgpa=8.6f;
+	String studentName="S.Jeevana";
+	int rollNo=908;
+	String collegeName="VIT";
+	int markScored=400;
+	float cgpa=7.8f;
 
 }
