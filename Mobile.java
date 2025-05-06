@@ -9,7 +9,7 @@ public class Mobile {
 	}
 	
 	public void makeCall() {
-		String mobileModel="Samsung Galaxy A14 ";
+		String mobileModel="Samsung Galaxy A15 ";
 		float mobileWeight=56.45f;
 		System.out.println("\nMethod-1 : makecall()");
 		System.out.println("Mobile Model : "+mobileModel);
